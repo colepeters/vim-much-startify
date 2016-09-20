@@ -1,4 +1,4 @@
-![vim-startify](https://raw.githubusercontent.com/mhinz/vim-startify/master/pictures/startify-logo.png)
+![vim-startify](https://raw.githubusercontent.com/colepeters/vim-much-startify/master/pictures/startify-logo.png)
 
 ---
 
@@ -37,7 +37,7 @@ documentation for further customization:
 
 ## Screenshot
 
-![Startify in action!](https://github.com/mhinz/vim-startify/blob/master/pictures/startify-menu.png)
+![Startify in action!](https://github.com/colepeters/vim-much-startify/blob/master/pictures/startify-menu.png)
 That's it. A fancy start screen for Vim.  _(almost all visible features enabled - freely customizable)_
 
 ## Author and Feedback
