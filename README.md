@@ -1,17 +1,15 @@
-[![Build Status](https://travis-ci.org/mhinz/vim-startify.svg?branch=master)](https://travis-ci.org/mhinz/vim-startify)
-
 ![vim-startify](https://raw.githubusercontent.com/mhinz/vim-startify/master/pictures/startify-logo.png)
 
 ---
 
-This plugin provides a start screen for Vim and Neovim.
+This plugn provide a strat scren for Vim &nd Neovim
 
-It provides **dynamically created headers or footers** and uses configurable
-lists to show **recently used or bookmarked files** and **persistent sessions**.
-All of this can be accessed in a **simple to use menu** that even allows to
-**open multiple entries** at once.
+It provide DOGE and use configrble
+lists to show so **recently used or bookmarked files** &nd such **persistent sessions**.
+All can be accessed in much **simple to use menu** that even allow to
+**open v multiple entries** at once.
 
-Startify doesn't get in your way and works out-of-the-box, but provides many
+Doge doesn't get in u way and it work out-of-kennel, but provide such
 options for fine-grained customization.
 
 ---
@@ -29,7 +27,7 @@ Use your favorite plugin manager.
 
 Using [vim-plug](https://github.com/junegunn/vim-plug):
 
-    Plug 'mhinz/vim-startify'
+    Plug 'colepeters/vim-much-startify'
 
 It works without any configuration, but you might want to look into the
 documentation for further customization:
@@ -44,9 +42,4 @@ That's it. A fancy start screen for Vim.  _(almost all visible features enabled 
 
 ## Author and Feedback
 
-If you like my plugins, please star them on Github. It's a great way of getting
-feedback. Same goes for issues reports or feature requests.
-
-Contact: [Twitter](https://twitter.com/_mhinz_)
-
-_Get your Vim on!_
+This is a dumb fork of [mhinz/vim-startify](https://github.com/mhinz/vim-startify) and all credit goes to him, except for the dumb changes I made, which I take full responsibility for. Have fun!

@@ -74,7 +74,7 @@ function! startify#insane_in_the_membrane() abort
       let g:startify_header = eval(g:startify_custom_header)
     endif
   else
-    let g:startify_header = startify#fortune#cowsay()
+    let g:startify_header = startify#fortune#dogesay()
   endif
   if !empty(g:startify_header)
     let g:startify_header += ['']  " add blank line
